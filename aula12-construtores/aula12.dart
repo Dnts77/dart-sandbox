@@ -44,7 +44,7 @@ class Usuario{
 void main(){
  //Usuario usuario = new Usuario("Jorge", "1234");
 
- Usuario usuarioDiretor = new Usuario.diretor("Jorge", "1234");
+ //Usuario usuarioDiretor = new Usuario.diretor("Jorge", "1234");
 
  //usuario.usuario = "Jorge";
  //usuario.senha = "1234";
