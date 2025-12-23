@@ -1,7 +1,7 @@
 //Variáveis em Dart e seus tipos
 
 
-var nome = "oi"; //Variável genérica
+var nome = "oi"; // Variável genérica
 const pi = 3.14; //const = constante = variável imutável
 
 
