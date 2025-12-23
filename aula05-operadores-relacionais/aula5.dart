@@ -39,7 +39,7 @@ void main(){
     // print(5 <= 2); //O número 5 não é menor que 2 (mesmo que não seja igual), saída false
 
 
-    // bool resultado = 4 <= 4; //Exemplo com variável
+    // bool resultado = 4 <= 4; // Exemplo com variável
 
     // print(5 == 5 && 6 == 7); // Nesse caso, a saída é false, pois ambas os casos precisam ser verdadeiros
     // print( 5 == 5 || 6 >= 7); // Aqui a saída é true, pois pelo menos um dos casos já é verdadeiro
