@@ -1,7 +1,7 @@
 
 
 /*void exibirMensagem(){
-  print("Mensagem"); //Criando função
+  print("Mensagem"); // Criando função
 }
 */
 void main(){
