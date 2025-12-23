@@ -19,7 +19,7 @@ void main(){
 
   /*
   
-  if(comando == "depositar"){        //Exemplo simples usando if
+  if (comando == "depositar") {        //Exemplo simples usando if
     print("Deposite um valor");
   }
   
