@@ -7,7 +7,7 @@ if (condição){
 }
 
 else if(outra condição){
-  caso seja cumprida
+   caso seja cumprida
 }
 
 else{
