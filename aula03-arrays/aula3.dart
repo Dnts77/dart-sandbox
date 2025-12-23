@@ -8,7 +8,7 @@
     "jorge", 
      100, 
     true
-  ]; //Criação de um Array com vários tipos de dados
+  ]; // Criação de um Array com vários tipos de dados
   
   nomes[1] = "Walter"; //Acessando índice específico e mudando seu valor
   
