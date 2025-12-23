@@ -30,7 +30,7 @@ void main(){
  }
 
 
-for(int i = 1; i <= 10; i++){ //Exemplo de loop usando for
+for(int i = 1; i <= 10; i++){ // Exemplo de loop usando for
   print("Executando $i");
 }
 
