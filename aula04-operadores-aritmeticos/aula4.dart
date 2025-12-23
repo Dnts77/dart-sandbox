@@ -8,7 +8,7 @@ print(4*2); //Multiplicação
 print(4/2); //Divisão
 
 //Operador resumido
-var numero = 10.0; //Se a variável não for double, não é possível usar /=
+var numero = 10.0; // Se a variável não for double, não é possível usar /=
 
 //numero = numero + 10; //Incrementando valor 
 
