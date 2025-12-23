@@ -1,5 +1,5 @@
 class Animal{ //Superclasse
-  String cor;
+  String? cor;
 
   void Dormir(){
     print("Está dormindo!");
@@ -13,7 +13,7 @@ class Animal{ //Superclasse
 
 class Cao extends Animal{ // Subclasse que herda atributos/métodos da superclasse
 
-  String? corOrelha; // As subclasses podem possuir atributos específicos
+  String? corOrelha; // As subclasses podem possuir atributos
 
   void latir(){
     print("Latindo");
@@ -40,7 +40,7 @@ void main(){
   Passaro passaro = new Passaro();
 
   cao.cor = "Branco";
-  print( "Cor do cão:" + cao.cor );
+  print( cao.cor );
   cao.latir();
   
   passaro.cor = "Verde";
