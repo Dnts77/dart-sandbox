@@ -19,7 +19,7 @@ class Cao extends Animal{
     print("Latindo");
   }
 
-  @override // Sobrescrita do método
+  @override // Sobrescrita do método 
   void Correr(){
     super.Correr(); // Acessando o método da classe pai
     print(" cão!");
